@@ -14,7 +14,7 @@
             <a href="${n("support.html")}" class="px-5 py-2 ${e("support.html")} hover:bg-white rounded-full transition-all">Help & Support</a>
           </div>
           <div class="flex items-center gap-4">
-            <button class="hidden sm:block text-xs font-bold text-slate-500 hover:text-slate-900 transition-colors" id="login-btn">Login</button>
+
             <button class="bg-emerald-600 text-white text-xs font-bold px-6 py-3 rounded-full hover:bg-emerald-700 transition-all shadow-lg shadow-emerald-200/50 active:scale-95" id="try-free-btn">
               Try it for free →
             </button>
